@@ -37,9 +37,10 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Level 3: Sponsor-level escalation for business-impacting issues
 
 ## Execution Checklist
-- [ ] Branching and PR conventions documented in repo (by Technical Writer)
+- [ ] Branching and PR conventions documented in repo
 - [ ] CI configured for tests, lint, and security scanning (Security Lead)
 - [ ] Regular demos scheduled (Scrum Master)
 - [ ] Risk register updated weekly (Project Manager with Security Lead input)
 - [ ] Design reviews scheduled for user-facing changes (UX Designer)
 - [ ] Release coordination established (Release Manager)
+- [ ] Process documentation maintained (Technical Writer)

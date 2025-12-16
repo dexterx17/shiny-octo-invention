@@ -208,6 +208,33 @@ Security Leads oversee security risk assessments, reviews, and compliance throug
 
 ---
 
+## QA / Testing
+
+### Role Summary
+QA and Testing professionals ensure software quality by validating features against acceptance criteria, identifying defects, and verifying that releases meet quality standards. They work closely with developers and product managers to maintain high quality throughout the development lifecycle.
+
+### Responsibilities
+- Create and execute test plans and test cases
+- Perform manual and automated testing (functional, integration, regression)
+- Validate features against acceptance criteria
+- Identify, document, and track defects
+- Collaborate with developers on bug reproduction and fixes
+- Participate in test automation and CI/CD quality gates
+- Conduct usability testing with UX Designer for user-facing features
+
+### Goals
+- Ensure high-quality releases with minimal defects
+- Catch issues early in the development cycle
+- Improve test coverage and automation
+
+### Typical Communication
+- Daily standups to report testing status and blockers
+- Bug reports and defect tracking
+- Test plan reviews with Product Managers and Developers
+- Go/no-go recommendations before releases
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
