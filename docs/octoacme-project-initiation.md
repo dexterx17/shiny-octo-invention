@@ -13,11 +13,12 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Decide go/no-go for planning
 
 ## Minimum Deliverables
-- Project One-pager (Problem, Goal, Success Metrics)
+- Project One-pager (Problem, Goal, Success Metrics) drafted by Product Manager with input from UX Designer if user-facing
 - Stakeholder list & communication plan
-- High-level timeline and key milestones
-- Initial risk list
+- High-level timeline and key milestones (coordinated with Release Manager)
+- Initial risk list (including security considerations from Security Lead)
 - Resource needs (team roles, rough effort estimate)
+- Documentation plan (coordinated with Technical Writer)
 
 ## Project One-pager Template
 - Project name:
@@ -35,6 +36,10 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] Identify if UX research is needed (UX Designer)
+- [ ] Identify documentation requirements (Technical Writer)
+- [ ] Preliminary security assessment completed (Security Lead)
+- [ ] Assign Scrum Master or Project Manager to coordinate delivery
 
 ## Decision Gate
 Move to planning when:

@@ -4,9 +4,10 @@
 Guidance for managing day-to-day execution and tracking progress toward project milestones.
 
 ## Team Rhythm
-- Daily standups (15 min) — focus on progress, blockers, dependencies
+- Daily standups (15 min) — facilitated by Scrum Master, focus on progress, blockers, dependencies
 - Weekly delivery sync — show progress, updates, and flagged risks
-- Demo/Review at the end of each sprint or milestone
+- Demo/Review at the end of each sprint or milestone (with UX Designer presenting design updates)
+- Sprint retrospectives facilitated by Scrum Master
 
 ## Workflows
 - Use the project board (e.g., GitHub Projects) with columns: Backlog, Ready, In Progress, In Review, QA, Done
@@ -20,8 +21,10 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Unit tests for new logic
 - Integration tests where applicable
 - End-to-end smoke tests for critical flows before release
-- Security scanning in CI
+- Security scanning in CI (monitored by Security Lead)
 - Manual QA for feature acceptance when needed
+- Usability testing coordinated by UX Designer for user-facing features
+- Documentation review by Technical Writer before release
 
 ## Reporting & Metrics
 - Track velocity and burndown
@@ -34,7 +37,9 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Level 3: Sponsor-level escalation for business-impacting issues
 
 ## Execution Checklist
-- [ ] Branching and PR conventions documented in repo
-- [ ] CI configured for tests and lint
-- [ ] Regular demos scheduled
-- [ ] Risk register updated weekly
+- [ ] Branching and PR conventions documented in repo (by Technical Writer)
+- [ ] CI configured for tests, lint, and security scanning (Security Lead)
+- [ ] Regular demos scheduled (Scrum Master)
+- [ ] Risk register updated weekly (Project Manager with Security Lead input)
+- [ ] Design reviews scheduled for user-facing changes (UX Designer)
+- [ ] Release coordination established (Release Manager)

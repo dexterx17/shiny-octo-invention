@@ -21,6 +21,11 @@ Collaboration across OctoAcme projects is driven by clearly defined roles:
 - **Product Managers** define what should be built, own the product vision, and measure outcomes through success metrics
 - **Project Managers** coordinate delivery activities, manage schedules and risks, and ensure transparent communication across stakeholders
 - **Developers** implement features while collaborating on design and testability, maintaining high test coverage and code quality
+- **UX Designers** ensure user-centric design practices, validate workflows through usability testing, and collaborate on requirement refinement
+- **Scrum Masters** facilitate agile ceremonies, remove impediments, and coach teams on agile practices and continuous improvement
+- **Release Managers** coordinate release cycles, manage deployment schedules, and ensure smooth transitions from development to production
+- **Technical Writers** create and maintain comprehensive documentation for users, developers, and internal processes
+- **Security Leads** oversee security risk assessments, define security standards, and ensure compliance throughout the project lifecycle
 - **QA/Testing** validates quality against acceptance criteria
 - **Stakeholders** provide inputs and approvals at key decision gates
 
