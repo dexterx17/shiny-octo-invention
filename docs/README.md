@@ -8,11 +8,31 @@ Welcome to the OctoAcme Project Management Documentation. This collection of gui
 
 OctoAcme's project management approach is built on five core principles: customer-first prioritization, iterative delivery, clear ownership, data-informed decisions, and psychological safety. Our processes guide teams through a complete project lifecycle—from initial problem validation through planning, execution, release, and retrospective—ensuring that every project delivers measurable value while maintaining quality and team alignment.
 
-Our **workflow structure** follows a phased approach where projects begin with initiation activities to validate business need and align stakeholders, then move into detailed planning to create actionable backlogs and release timelines. During execution, teams work in iterative sprints with continuous quality assurance, daily standups, and weekly syncs. Each phase includes specific deliverables, from project one-pagers and risk registers to acceptance criteria and retrospective action items. Projects use GitHub Projects boards with clear columns (Backlog, Ready, In Progress, In Review, QA, Done) and follow pull request workflows that emphasize small, reviewable changes with automated testing and security scanning.
+### Workflow Structure
 
-**Key personas and roles** drive collaboration across OctoAcme projects. Product Managers define what should be built, own the product vision, and measure outcomes through success metrics. Project Managers coordinate delivery activities, manage schedules and risks, and ensure transparent communication across stakeholders. Developers implement features while collaborating on design and testability, maintaining high test coverage and code quality. QA/Testing validates quality against acceptance criteria, and stakeholders provide inputs and approvals at key decision gates. Each project assigns clear owners for work items, risks, and action items to maintain accountability.
+Our workflow follows a phased approach where projects begin with initiation activities to validate business need and align stakeholders, then move into detailed planning to create actionable backlogs and release timelines. During execution, teams work in iterative sprints with continuous quality assurance, daily standups, and weekly syncs.
 
-**Communication strategies and quality assurance** are embedded throughout our processes. Teams maintain a regular cadence of twice-weekly standups, weekly PM-PdM syncs, and monthly stakeholder updates, with ad-hoc escalations following defined paths from team level through PM to product lead and sponsor. Risk management is continuous, with teams maintaining risk registers that track impact, likelihood, and mitigation plans. Quality is enforced through Definition of Done, automated CI testing (unit, integration, and end-to-end), security scanning, and code review requirements. Release processes include pre-release checklists, staged deployments with smoke tests, and rollback plans. After each sprint or milestone, teams conduct retrospectives to capture learnings and convert them into actionable improvements, fostering a culture of continuous learning and incremental progress.
+Each phase includes specific deliverables, from project one-pagers and risk registers to acceptance criteria and retrospective action items. Projects use GitHub Projects boards with clear columns (Backlog, Ready, In Progress, In Review, QA, Done) and follow pull request workflows that emphasize small, reviewable changes with automated testing and security scanning.
+
+### Key Personas and Roles
+
+Collaboration across OctoAcme projects is driven by clearly defined roles:
+
+- **Product Managers** define what should be built, own the product vision, and measure outcomes through success metrics
+- **Project Managers** coordinate delivery activities, manage schedules and risks, and ensure transparent communication across stakeholders
+- **Developers** implement features while collaborating on design and testability, maintaining high test coverage and code quality
+- **QA/Testing** validates quality against acceptance criteria
+- **Stakeholders** provide inputs and approvals at key decision gates
+
+Each project assigns clear owners for work items, risks, and action items to maintain accountability.
+
+### Communication Strategies and Quality Assurance
+
+Teams maintain a regular communication cadence including twice-weekly standups, weekly PM-PdM syncs, and monthly stakeholder updates. Ad-hoc escalations follow defined paths from team level through PM to product lead and sponsor.
+
+Risk management is continuous, with teams maintaining risk registers that track impact, likelihood, and mitigation plans. Quality is enforced through Definition of Done, automated CI testing (unit, integration, and end-to-end), security scanning, and code review requirements.
+
+Release processes include pre-release checklists, staged deployments with smoke tests, and rollback plans. After each sprint or milestone, teams conduct retrospectives to capture learnings and convert them into actionable improvements, fostering a culture of continuous learning and incremental progress.
 
 ## Documentation Directory
 
